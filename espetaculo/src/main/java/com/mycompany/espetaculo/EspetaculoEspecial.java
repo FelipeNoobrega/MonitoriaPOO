@@ -38,7 +38,7 @@ public class EspetaculoEspecial extends Espetaculo {
 
     @Override
     public String toString() {
-        return super.toString() + "EspetaculoEspecial{" + "horas=" + horas + '}';
+        return super.toString() + "EspetaculoEspecial{" + "hora=" + horas + '}';
     }
     
     
